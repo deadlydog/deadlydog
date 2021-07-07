@@ -8,7 +8,7 @@
 - Enjoy creating open source software, mostly in GitHub.
 - Also have some private repos and pipelines tucked away in Azure DevOps.
 
-## Content
+## 🍨 Content
 
 - [I blog about programming and productivity tools](https://blog.danskingdom.com).
 - I've made [a few YouTube videos](https://www.youtube.com/channel/UCcESXeG56v-AZb63CGz1r7Q).
