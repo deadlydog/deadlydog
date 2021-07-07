@@ -1,4 +1,4 @@
-# Hi, I'm Dan Schroeder, known on the web as deadlydog 👋
+# 👋 Hi, I'm Dan Schroeder, known on the web as deadlydog
 
 ## ℹ About me
 
