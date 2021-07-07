@@ -10,7 +10,7 @@ I've been writing code for over 20 years; since ~2000.
 Most of the software I create is open source, although there are a few projects that I have hidden away in private repositories.
 While most of my work is on GitHub, I also have a few repositories and pipelines in Azure DevOps.
 
-## 💬 Social media
+## 💬 Social
 
 [![Twitter](Images/TwitterIcon.png)](https://twitter.com/deadlydog)
 [![LinkedIn](Images/LinkedInIcon.png)](https://www.linkedin.com/in/1danielschroeder)
@@ -21,4 +21,4 @@ While most of my work is on GitHub, I also have a few repositories and pipelines
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deadlydog&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deadlydog&theme=tokyonight)
-![StackOverflow](https://stackoverflow.com/users/flair/602585.png)
+![StackOverflow](https://stackexchange.com/users/flair/156281.png)
