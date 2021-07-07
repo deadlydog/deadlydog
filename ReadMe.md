@@ -8,3 +8,5 @@ I [blog about programming and productivity tools](https://blog.danskingdom.com),
 
 Most of the software I create is open source, although there are a few projects that I have hidden away in private repositories.
 While most of my work is on GitHub, I also have a few repositories and pipelines in Azure DevOps.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=deadlydog&show_icons=true&theme=tokyonight)
