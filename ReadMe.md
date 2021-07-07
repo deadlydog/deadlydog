@@ -19,11 +19,6 @@ While most of my work is on GitHub, I also have a few repositories and pipelines
 
 ## 🏆 Stats
 
-GitHub
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deadlydog&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deadlydog&theme=tokyonight)
-
-Stack Overflow
-
 ![StackOverflow](https://stackoverflow.com/users/flair/602585.png)
