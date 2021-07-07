@@ -2,13 +2,16 @@
 
 ## ℹ About me
 
-I have a passion for programming and software automation.
-I've been writing code for over 20 years; since ~2000.
+- Have a passion for programming and software automation.
+- Been writing code for over 20 years; since ~2000.
+- Master's degree in Computer Science.
+- Enjoy creating open source software, mostly in GitHub.
+- Also have some private repos and pipelines tucked away in Azure DevOps.
 
-[I blog about programming and productivity tools](https://blog.danskingdom.com), and have made [a few YouTube videos](https://www.youtube.com/channel/UCcESXeG56v-AZb63CGz1r7Q).
+## Content
 
-Most of the software I create is open source, although there are a few projects that I have hidden away in private repositories.
-While most of my work is on GitHub, I also have a few repositories and pipelines in Azure DevOps.
+- [I blog about programming and productivity tools](https://blog.danskingdom.com).
+- I've made [a few YouTube videos](https://www.youtube.com/channel/UCcESXeG56v-AZb63CGz1r7Q).
 
 ## 💬 Social
 
