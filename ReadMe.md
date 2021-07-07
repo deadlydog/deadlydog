@@ -13,6 +13,8 @@
 - [I blog about programming and productivity tools](https://blog.danskingdom.com).
 - I've made [a few YouTube videos](https://www.youtube.com/channel/UCcESXeG56v-AZb63CGz1r7Q).
 - [Open source repositories](https://github.com/deadlydog?tab=repositories&type=source).
+- [NuGet packages](https://www.nuget.org/profiles/deadlydog).
+- [PowerShell modules](https://www.powershellgallery.com/profiles/deadlydog).
 - Created [DPSF (Dynamic Particle System Framework)](http://xnaparticles.com/ProjectsThatUseDPSF.php).
 
 ## 💬 Social
