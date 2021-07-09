@@ -34,4 +34,4 @@
 
 Watch a 🐍 eat my GitHub contributions 🍏.
 
-![GitHubContributionsSnake](https://github.com/deadlydog/deadlydog/blob/GitHubContributionsSnakeOutput/github-contribution-grid-snake.svg)
+![GitHubContributionsSnake](https://github.com/deadlydog/deadlydog/blob/GitHubContributionsSnakeImage/github-contribution-grid-snake.svg)
