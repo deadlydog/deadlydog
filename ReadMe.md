@@ -29,3 +29,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deadlydog&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deadlydog&theme=tokyonight)
 ![StackOverflow](https://stackexchange.com/users/flair/156281.png)
+
+## 🎈Just for fun
+
+Watch a 🐍 eat my GitHub contributions 🍏.
+
+![GitHubContributionsSnake](https://github.com/deadlydog/deadlydog/blob/GitHubContributionsSnakeOutput/github-contribution-grid-snake.gif)
