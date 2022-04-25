@@ -2,7 +2,7 @@
 
 ## ℹ About me
 
-- Have a passion for programming and software automation.
+- Have a passion for software development and automation.
 - Been writing code for over 20 years; since ~2000.
 - Master's degree in Computer Science.
 - Enjoy creating open source software, mostly in GitHub.
