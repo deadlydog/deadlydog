@@ -11,7 +11,7 @@
 ## 🍨 Content
 
 - [My blog about programming and productivity tools](https://blog.danskingdom.com).
-- [My YouTube videos](https://www.youtube.com/channel/UCcESXeG56v-AZb63CGz1r7Q).
+- [My YouTube videos](https://www.youtube.com/user/deadlydog/featured).
 - [My open source repositories](https://github.com/deadlydog?tab=repositories&type=source).
 - [My NuGet packages](https://www.nuget.org/profiles/deadlydog).
 - [My PowerShell modules](https://www.powershellgallery.com/profiles/deadlydog).
