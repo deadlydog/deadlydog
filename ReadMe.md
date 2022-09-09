@@ -28,7 +28,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deadlydog&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deadlydog&theme=tokyonight)
-![StackOverflow](https://stackexchange.com/users/flair/156281.png)
+![StackOverflow stats](https://stackexchange.com/users/flair/156281.png)
 
 ## 📜 Certifications
 
