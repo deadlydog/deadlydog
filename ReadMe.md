@@ -22,13 +22,13 @@
 [![Twitter](Images/Twitter-icon.png)](https://twitter.com/deadlydog)
 [![LinkedIn](Images/LinkedIn-icon.png)](https://www.linkedin.com/in/1danielschroeder)
 [![YouTube](Images/YouTube-icon.png)](https://www.youtube.com/channel/UCcESXeG56v-AZb63CGz1r7Q)
-[![StackOverflow](Images/Stack-Overflow-icon.png)](https://stackoverflow.com/users/602585/deadlydog)
+[![Stack Overflow](Images/Stack-Overflow-icon.png)](https://stackoverflow.com/users/602585/deadlydog)
 
 ## 🏆 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deadlydog&show_icons=true&theme=tokyonight)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deadlydog&theme=tokyonight)
-![StackOverflow stats](https://stackexchange.com/users/flair/156281.png)
+![Stack Overflow stats](https://stackexchange.com/users/flair/156281.png)
 
 ## 📜 Certifications
 
