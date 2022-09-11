@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Dan Schroeder, known on the web as deadlydog
 
+![Word cloud banner with descriptive words about Dan Schroeder](Images/Word-Cloud-Banner.png)
+
 ## ℹ About me
 
 - Have a passion for software development and automation.
