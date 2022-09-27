@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dan Schroeder, known on the web as deadlydog
+# ![Hand waving](Images/Hand-waving.gif) Hi, I'm Dan Schroeder, known on the web as deadlydog
 
 ![Word cloud banner with descriptive words about Dan Schroeder](Images/Word-Cloud-Banner.png)
 
