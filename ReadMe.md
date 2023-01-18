@@ -18,6 +18,7 @@
 - [My NuGet packages](https://www.nuget.org/profiles/deadlydog).
 - [My PowerShell modules](https://www.powershellgallery.com/profiles/deadlydog).
 - Created [DPSF (Dynamic Particle System Framework)](http://xnaparticles.com/ProjectsThatUseDPSF.php).
+- [More info about me and things I've created](https://blog.danskingdom.com/about)
 
 ## 💬 Social
 
