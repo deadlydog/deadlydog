@@ -23,6 +23,7 @@
 ## 💬 Social
 
 [![Twitter](Images/Twitter-icon.png)](https://twitter.com/deadlydog)
+[![Mastodon](Images/Mastodon-icon.png)](https://hachyderm.io/@deadlydog)
 [![LinkedIn](Images/LinkedIn-icon.png)](https://www.linkedin.com/in/1danielschroeder)
 [![YouTube](Images/YouTube-icon.png)](https://www.youtube.com/channel/UCcESXeG56v-AZb63CGz1r7Q)
 [![Stack Overflow](Images/Stack-Overflow-icon.png)](https://stackoverflow.com/users/602585/deadlydog)
