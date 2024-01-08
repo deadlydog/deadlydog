@@ -26,7 +26,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Copy the generated image files to a branch to prevent it from cluttering up the main branch.
-      - uses: crazy-max/ghaction-github-pages
+      - uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: GitHubContributionsSnakeImage
           build_dir: dist
