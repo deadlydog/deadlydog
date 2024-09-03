@@ -35,7 +35,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=deadlydog&theme=tokyonight)
 ![Stack Overflow stats](https://stackexchange.com/users/flair/156281.png)
 
-## 📜 Certifications
+## 📜 Certifications and acknowledgements
 
 [My badges from Credly](https://www.credly.com/users/daniel-schroeder/badges)
 
@@ -45,6 +45,9 @@
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions badge](Images/Exam-AZ400-badge.png)](https://www.credly.com/badges/f1d17019-0790-4ae4-b0b1-cc70c8dd7c1f)
 [![Exam 483: Programming in C# badge](Images/Exam-Programming-in-C-Sharp-certificate-badge.png)](https://www.credly.com/badges/369c8a62-e467-4bea-b006-b6abde03b6ec)
 [![Exam 480: Programming in HTML5 with JavaScript and CSS3 badge](Images/Exam-Programming-in-HTML5-with-JavaScript-and-CSS3-Certificate-Badge.png)](https://www.credly.com/badges/0b6019f5-a2a0-4d8c-bc15-a95f4c6dc580)
+[![Microsoft MVP badge](Images/Microsoft-MVP-badge.png)](https://mvp.microsoft.com/en-US/MVP/profile/04657009-3dd0-4b39-abb5-6a0bb7f80949)
+
+Also, check out [kudos and feedback I've received from others](https://blog.danskingdom.com/feedback/).
 
 ## 🎈Just for fun
 
