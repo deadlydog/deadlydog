@@ -39,9 +39,9 @@
 
 [My badges from Credly](https://www.credly.com/users/daniel-schroeder/badges)
 
-[![Microsoft Certified: DevOps Engineer Expert badge](Images/DevOps-Engineer-Expert-certificate-badge.png)](https://www.credly.com/badges/282a4fca-f717-479f-93eb-10d107bcfc17)
-[![Microsoft Certified: Azure Developer Associate badge](Images/Azure-Developer-Associate-certificate-badge.png)](https://www.credly.com/badges/0007eb0c-6be0-4caa-ab5a-8b5cc18d8570)
-[![Microsoft Certified: Azure Fundamentals badge](Images/Azure-Fundamentals-certificate-badge.png)](https://www.credly.com/badges/4b57c7bb-0fc6-4eed-83a6-8e0bf894d14d)
+[![Microsoft Certified: DevOps Engineer Expert badge](Images/DevOps-Engineer-Expert-certificate-badge.png)](https://learn.microsoft.com/api/credentials/share/en-ca/deadlydog/555129289D7BC91C?sharingId=MVP_402980)
+[![Microsoft Certified: Azure Developer Associate badge](Images/Azure-Developer-Associate-certificate-badge.png)](https://learn.microsoft.com/api/credentials/share/en-ca/deadlydog/81FE123D78E12D59?sharingId=MVP_402980)
+[![Microsoft Certified: Azure Fundamentals badge](Images/Azure-Fundamentals-certificate-badge.png)](https://learn.microsoft.com/api/credentials/share/en-ca/deadlydog/3205A7745BEF56F3?sharingId=MVP_402980)
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions badge](Images/Exam-AZ400-badge.png)](https://www.credly.com/badges/f1d17019-0790-4ae4-b0b1-cc70c8dd7c1f)
 [![Exam 483: Programming in C# badge](Images/Exam-Programming-in-C-Sharp-certificate-badge.png)](https://www.credly.com/badges/369c8a62-e467-4bea-b006-b6abde03b6ec)
 [![Exam 480: Programming in HTML5 with JavaScript and CSS3 badge](Images/Exam-Programming-in-HTML5-with-JavaScript-and-CSS3-Certificate-Badge.png)](https://www.credly.com/badges/0b6019f5-a2a0-4d8c-bc15-a95f4c6dc580)
